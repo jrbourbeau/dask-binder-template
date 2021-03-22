@@ -1,6 +1,6 @@
 # Dask Binder template
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jrbourbeau/dask-binder-template/master?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jrbourbeau/dask-binder-template/main?urlpath=lab)
 
 A template for Dask-enabled repositories for use on [Binder](https://mybinder.org/). Specifically, this template ensures that Dask and [Dask's JupyterLab extension](https://github.com/dask/dask-labextension) are installed and configured for use on mybinder.org.
 
